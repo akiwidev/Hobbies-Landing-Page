@@ -1,10 +1,10 @@
 nav {
-    background-color: #CDC6A5;
-    padding: 1%;
+    background-image: linear-gradient(#CDC6A5, #F0DCCA);
+    padding: 2%;
 }
 a {
     color: black;
 }
-a:hover{
+a:hover {
     color: #696D7D;
 }
