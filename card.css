@@ -1,0 +1,10 @@
+.card p {
+    color: #6B2D5C;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+}
+.card img {
+    width: 150px;
+    height: 200px;
+}
