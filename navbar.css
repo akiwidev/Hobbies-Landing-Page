@@ -1,9 +1,11 @@
 nav {
     background-image: linear-gradient(#CDC6A5, #F0DCCA);
     padding: 2%;
+    font-family: Arial, Helvetica, sans-serif;
 }
 a {
     color: black;
+    text-decoration: none;
 }
 a:hover {
     color: #696D7D;
