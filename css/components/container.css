@@ -7,7 +7,7 @@ section {
 
 }
 main {
-    background-color: #F0DCCA;
+    
 }
 nav {
     display: flex;
@@ -16,4 +16,5 @@ nav {
 footer {
 	display: flex;
 	justify-content: space-around;
+	margin: 3%;
 }
