@@ -3,3 +3,7 @@ i.fab {
 	text-align: center;	
 	color: #C0C0C0;
 }
+
+i:hover {
+	color: #2F4F4F;
+}
